@@ -1,6 +1,6 @@
 """
-This webmap, built with folium and pandas, will visually present various data on a world map,
-read from JSON files such as pinpoint locations and area indicators on separate layers.
+This webmap, built with folium and pandas, will represent various data on a world map,
+read from JSON and csv files, such as pinpoint locations and area indicators on separate layers.
 As a result, HTML file will be produced for the user to interact with.
 layer 1: base worldmap
 layer 2: volcanoes in the USA, color-coded for different elevations
